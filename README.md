@@ -20,7 +20,7 @@ A collection of my key projects in Python, SQL, and MongoDB.
 - **Highlights:** MongoDB aggregations with optimized queries (Python and Node.js).
   
 ## Running Race Registration Demo
-- [Running Race Registration](https://joannar77.github.io/race-registration/) – Interactive demo that assigns race numbers and start times based on age and registration rules.
+- **Repo:** [Running Race Registration](https://joannar77.github.io/race-registration/) – Interactive demo that assigns race numbers and start times based on age and registration rules.
 
 ## Additional Projects
 - SQL analysis projects  
