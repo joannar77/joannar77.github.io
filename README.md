@@ -42,10 +42,6 @@ A collection of my key projects in Python, SQL, and MongoDB.
 
 ---
 
-## Resume
-(Link to resume here if you want to add one)
-
-
 ## Additional Projects
 - SQL analysis projects  
 - Python data visualization  
