@@ -9,9 +9,7 @@ I am a Data Analyst with combined experience in IT Management, Accounting, and D
 
 # Data Analytics Portfolio
 
-A collection of my key projects in Python, SQL, and MongoDB.
-
----
+A collection of my key projects in Python, SQL, and MongoDB:
 
 ## Business Performance Analysis
 - **Repo:** [Business Performance Analysis](https://github.com/joannar77/Business_Performance_Analysis)  
