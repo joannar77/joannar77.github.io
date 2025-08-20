@@ -7,8 +7,25 @@ Visit the live site: [https://joannar77.github.io](https://joannar77.github.io)
 ## About
 I am a Data Analyst with combined experience in IT Management, Accounting, and Data Visualization. My portfolio demonstrates coding projects, analytical work, and professional skills. I am currently pursuing a Master’s degree in Data Science.
 
-## Projects
-- [Running Race Registration](https://joannar77.github.io/race-registration/) – Interactive demo that assigns race numbers and start times based on age and registration rules.  
+# Data Analytics Portfolio
+
+A collection of my key projects in Python, SQL, and MongoDB.
+
+## Business Performance Analysis
+- **Repo:** [Business_Performance_Analysis](https://github.com/joannar77/Business_Performance_Analysis)
+- **Highlights:** Debt-to-equity ratios, state-level aggregation, and descriptive statistics in Jupyter Notebook.
+
+## HealthFit Data Analysis
+- **Repo:** [healthfit-analysis](https://github.com/joannar77/healthfit-analysis)
+- **Highlights:** MongoDB aggregations with optimized queries (Python and Node.js).
+  
+## Running Race Registration Demo
+- [Running Race Registration](https://joannar77.github.io/race-registration/) – Interactive demo that assigns race numbers and start times based on age and registration rules.
+
+## Additional Projects
+- SQL analysis projects  
+- Python data visualization  
+- Other coursework and independent projects
 
 ## Resume
 [View my resume here](https://joannaronchi.com/home)
