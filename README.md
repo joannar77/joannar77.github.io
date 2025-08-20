@@ -11,10 +11,6 @@ I am a Data Analyst with combined experience in IT Management, Accounting, and D
 
 A collection of my key projects in Python, SQL, and MongoDB.
 
-# Data Analytics Portfolio
-
-A collection of my key projects in Python, SQL, and MongoDB.
-
 ---
 
 ## Business Performance Analysis
