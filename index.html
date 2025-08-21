@@ -1,89 +1,80 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Joanna Ronchi • Portfolio</title>
+  <meta name="description" content="Portfolio of Joanna Ronchi — Data Analyst specializing in analytics, visualization, and MongoDB." />
   <style>
+    :root {
+      --bg: #f7f9fc;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --brand: #1d4ed8;
+      --brand-hover: #153ea8;
+      --border: #e5e7eb;
+      --chip: #eff6ff;
+    }
+    * { box-sizing: border-box; }
     body {
-      font-family: system-ui, sans-serif;
-      background: #f9fafc;
-      color: #222;
       margin: 0;
-      padding: 40px;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color: var(--text);
+      background: var(--bg);
       line-height: 1.6;
     }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { color: var(--brand-hover); text-decoration: underline; }
+
+    .container { max-width: 1000px; margin: 0 auto; padding: 24px; }
     header {
-      text-align: center;
-      margin-bottom: 40px;
+      display: grid;
+      gap: 10px;
+      padding: 32px 0 8px;
+      border-bottom: 1px solid var(--border);
     }
-    h1 {
-      margin: 0;
-      font-size: 2.2rem;
-      color: #2c3e50;
-    }
-    p {
-      color: #555;
-    }
-    .projects {
-      max-width: 700px;
-      margin: 0 auto;
+    .title { font-size: clamp(28px, 4vw, 40px); font-weight: 800; margin: 0; }
+    .tagline { color: var(--muted); font-size: 16px; margin: 0; }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+    .chip { background: var(--chip); border: 1px solid #dbeafe; color: #1e3a8a; padding: 4px 10px; border-radius: 999px; font-size: 12px; }
+
+    nav { display: flex; gap: 16px; padding: 14px 0; }
+    nav a { font-weight: 600; color: var(--muted); }
+    nav a:hover { color: var(--brand); }
+
+    section { padding: 24px 0; }
+    .section-title { font-size: 20px; font-weight: 800; margin: 0 0 14px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 16px;
     }
     .card {
-      background: #fff;
-      border: 1px solid #ddd;
+      grid-column: span 12;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px;
+      display: grid;
+      gap: 10px;
+      transition: box-shadow .2s ease, transform .2s ease;
+    }
+    .card:hover { box-shadow: 0 8px 24px rgba(0,0,0,.06); transform: translateY(-1px); }
+    @media (min-width: 780px) {
+      .card.half { grid-column: span 6; }
+    }
+    .card h3 { margin: 0; font-size: 18px; }
+    .meta { color: var(--muted); font-size: 14px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+    .btn {
+      display: inline-block;
+      background: var(--brand);
+      color: white;
+      border: 1px solid var(--brand);
+      padding: 8px 12px;
       border-radius: 10px;
-      padding: 20px;
-      margin-bottom: 20px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      font-weight: 600;
     }
-    .card h2 {
-      margin-top: 0;
-      color: #2c3e50;
-    }
-    a {
-      color: #0066cc;
-      font-weight: bold;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      color: #888;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>👋 Hi, I'm Joanna Ronchi</h1>
-    <p>Data Analyst • IT Management & Accounting Expertise</p>
-    <p>
-      📄 <a href="https://joannaronchi.com/home" target="_blank">View my Resume</a>
-    </p>
-  </header>
-
-  <section class="projects">
-    <h2>Projects</h2>
-
-    <div class="card">
-      <h2>🏃 Running Race Registration</h2>
-      <p>
-        A small interactive demo that assigns race numbers and start times based on a runner’s age and registration status.
-      </p>
-      <p><a href="https://joannar77.github.io/race-registration/" target="_blank">View Live Demo</a></p>
-      <p><a href="https://github.com/joannar77/race-registration" target="_blank">View Code on GitHub</a></p>
-    </div>
-
-    <!-- Add more projects below as you build them -->
-
-  </section>
-
-  <footer>
-    © 2025 Joanna Ronchi • Built with ❤️ using GitHub Pages
-  </footer>
-</body>
-</html>
+    .btn:hover { background: var(--brand-hover); border-color: var(--brand-hover); text-decoration
