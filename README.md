@@ -1,4 +1,4 @@
-## Joanna Ronchi Portfolio
+### Joanna Ronchi Portfolio
 
 This repository hosts my personal portfolio site, built with HTML and CSS and deployed using **GitHub Pages**.  
 
