@@ -77,4 +77,127 @@
       border-radius: 10px;
       font-weight: 600;
     }
-    .btn:hover { background: var(--brand-hover); border-color: var(--brand-hover); text-decoration
+    .btn:hover { background: var(--brand-hover); border-color: var(--brand-hover); text-decoration: none; }
+    .btn.outline {
+      background: transparent;
+      color: var(--brand);
+      border-color: var(--brand);
+    }
+    .btn.outline:hover { background: #eef2ff; }
+
+    footer {
+      margin-top: 28px;
+      padding: 28px 0 60px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="title">Joanna Ronchi</h1>
+      <p class="tagline">Data Analyst • IT Management &amp; Accounting Expertise</p>
+      <div class="chips" aria-label="Skills">
+        <span class="chip">Python</span>
+        <span class="chip">SQL</span>
+        <span class="chip">MongoDB</span>
+        <span class="chip">Data Visualization</span>
+        <span class="chip">Jupyter</span>
+        <span class="chip">GitHub Pages</span>
+      </div>
+    </header>
+
+    <nav aria-label="Primary">
+      <a href="#featured">Featured Projects</a>
+      <a href="#other">Other Projects</a>
+      <a href="#about">About</a>
+      <a href="#resume">Resume</a>
+      <a href="mailto:joannar77@gmail.com">Contact</a>
+    </nav>
+
+    <!-- Featured Projects -->
+    <section id="featured" aria-labelledby="featured-title">
+      <h2 class="section-title" id="featured-title">Featured Projects</h2>
+      <div class="grid">
+        <!-- HealthFit -->
+        <article class="card">
+          <h3>HealthFit Data Analysis (MongoDB Aggregations)</h3>
+          <p class="meta">MongoDB • Aggregation Pipelines • Python (PyMongo) • Node.js</p>
+          <p>
+            Actionable health and business insights from siloed data using MongoDB aggregation pipelines.
+            Includes baseline and optimized queries in both Python and JavaScript, plus clear README documentation.
+          </p>
+          <div class="actions">
+            <a class="btn" href="https://github.com/joannar77/healthfit-analysis" target="_blank" rel="noopener">View GitHub Repo</a>
+            <a class="btn outline" href="https://vimeo.com/" target="_blank" rel="noopener">Project Walkthrough</a>
+          </div>
+        </article>
+
+        <!-- Business Performance -->
+        <article class="card">
+          <h3>Business Performance Analysis (Jupyter)</h3>
+          <p class="meta">Python • Pandas • Descriptive Statistics • CSV Outputs</p>
+          <p>
+            Financial ratio analysis and state-level aggregation in a reproducible Jupyter notebook.
+            Covers debt-to-equity, descriptive stats, and exportable outputs with a clear workflow diagram.
+          </p>
+          <div class="actions">
+            <a class="btn" href="https://github.com/joannar77/Business_Performance_Analysis" target="_blank" rel="noopener">View GitHub Repo</a>
+            <a class="btn outline" href="https://github.com/joannar77/Business_Performance_Analysis#readme" target="_blank" rel="noopener">Read the README</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Other Projects -->
+    <section id="other" aria-labelledby="other-title">
+      <h2 class="section-title" id="other-title">Other Projects & Demos</h2>
+      <div class="grid">
+        <article class="card half">
+          <h3>Running Race Registration Demo</h3>
+          <p class="meta">HTML • CSS • JavaScript</p>
+          <p>Simple demo that assigns race numbers and start times based on age and registration status.</p>
+          <div class="actions">
+            <a class="btn" href="https://joannar77.github.io/race-registration/" target="_blank" rel="noopener">Live Demo</a>
+            <a class="btn outline" href="https://github.com/joannar77/Running-Race-Registration" target="_blank" rel="noopener">GitHub Repo</a>
+          </div>
+        </article>
+
+        <!-- Placeholder for future work -->
+        <article class="card half">
+          <h3>More Projects Coming</h3>
+          <p class="meta">Portfolio</p>
+          <p>Additional SQL analyses, dashboards, and coursework will be linked here as they’re published.</p>
+          <div class="actions">
+            <a class="btn outline" href="https://github.com/joannar77?tab=repositories" target="_blank" rel="noopener">All Repositories</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" aria-labelledby="about-title">
+      <h2 class="section-title" id="about-title">About</h2>
+      <p>
+        I am a Data Analyst with experience across IT Management, Accounting, and Analytics. I focus on transforming data into
+        clear insights and decision-ready visuals. I’m currently pursuing a Master’s degree in Data Science.
+      </p>
+    </section>
+
+    <!-- Resume -->
+    <section id="resume" aria-labelledby="resume-title">
+      <h2 class="section-title" id="resume-title">Resume</h2>
+      <p>
+        View my resume at
+        <a href="https://joannaronchi.com/home" target="_blank" rel="noopener">joannaronchi.com/home</a>.
+      </p>
+    </section>
+
+    <footer>
+      © 2025 Joanna Ronchi • Built with HTML, CSS, and GitHub Pages
+    </footer>
+  </div>
+</body>
+</html>
