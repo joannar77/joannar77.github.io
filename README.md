@@ -7,7 +7,7 @@ Visit the live site: [https://joannar77.github.io](https://joannar77.github.io)
 ## About
 I am a Data Analyst with combined experience in IT Management, Accounting, and Data Visualization. My portfolio demonstrates coding projects, analytical work, and professional skills. I am currently pursuing a Master’s degree in Data Science.
 
-## Data Analytics Portfolio
+# Data Analytics Portfolio
 A collection of my key projects in Python, SQL, and MongoDB:
 
 ### Business Performance Analysis
@@ -27,7 +27,7 @@ A collection of my key projects in Python, SQL, and MongoDB:
 - Python data visualization  
 - Other coursework and independent projects  
 
-### Resume
+# Resume
 [View my resume here](https://joannaronchi.com/home)
 
 
