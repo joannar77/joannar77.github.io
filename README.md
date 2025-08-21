@@ -4,8 +4,6 @@ This repository hosts my personal portfolio site, built with HTML and CSS and de
 
 Visit the live site: [https://joannar77.github.io](https://joannar77.github.io)
 
----
-
 ## About
 I am a Data Analyst with combined experience in IT Management, Accounting, and Data Visualization. My portfolio demonstrates coding projects, analytical work, and professional skills. I am currently pursuing a Master’s degree in Data Science.
 
@@ -26,8 +24,6 @@ A collection of my key projects in Python, SQL, and MongoDB:
 - **Repo:** [Running Race Registration](https://github.com/joannar77/Running-Race-Registration)  
 - **Highlights:** Interactive demo that assigns race numbers and start times based on age and registration rules.
 
----
-
 ### Additional Projects
 - SQL analysis projects  
 - Python data visualization  
@@ -38,6 +34,5 @@ A collection of my key projects in Python, SQL, and MongoDB:
 ### Resume
 [View my resume here](https://joannaronchi.com/home)
 
----
 
 *Built using **HTML, CSS, JavaScript**, and **GitHub Pages**.*
