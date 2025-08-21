@@ -4,7 +4,7 @@ This repository hosts my personal portfolio site, built with HTML and CSS and de
 
 Visit the live site: [https://joannar77.github.io](https://joannar77.github.io)
 
-<h3>About<h3></h3>
+<h3>About<h3>
 I am a Data Analyst with combined experience in IT Management, Accounting, and Data Visualization. My portfolio demonstrates coding projects, analytical work, and professional skills. I am currently pursuing a Master’s degree in Data Science.
 
 <h3>Data Analytics Portfolio<h3>
