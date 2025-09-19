@@ -10,15 +10,15 @@ I am a Data Analyst with combined experience in IT Management, Accounting, and D
 A collection of my key projects in Python, SQL, and MongoDB:
 
 ### Business Performance Analysis
-- **Repo:** [Business Performance Analysis](https://github.com/joannar77/Business_Performance_Analysis)  
+- **Repo:** [Business Performance Analysis](https://github.com/joannar77/business-performance-analysis)  
 - **Highlights:** Debt-to-equity ratios, state-level aggregation, descriptive statistics, and CSV outputs in Jupyter Notebook.
 
 ### HealthFit Data Analysis
-- **Repo:** [HealthFit Analysis](https://github.com/joannar77/healthfit-analysis)  
+- **Repo:** [HealthFit Analysis](https://github.com/joannar77/healthfit_mongodb_project)  
 - **Highlights:** MongoDB aggregations with optimized queries (Python and Node.js).
 
 ### Running Race Registration Demo
-- **Repo:** [Running Race Registration](https://github.com/joannar77/Running-Race-Registration)  
+- **Repo:** [Running Race Registration](https://github.com/joannar77/race-registration))  
 - **Highlights:** Interactive demo that assigns race numbers and start times based on age and registration rules.
 
 ### Additional Projects
