@@ -2,7 +2,7 @@
 
 This repository hosts my personal portfolio site, built with **HTML** and **CSS**, and deployed using **GitHub Pages**.
 
-🔗 **Visit the live site:** [https://joannar77.github.io](https://joannar77.github.io)
+**Visit the live site:** [https://joannar77.github.io](https://joannar77.github.io)
 
 ---
 
