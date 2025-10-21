@@ -43,7 +43,7 @@ Core skills: Python • Pandas • NumPy • SQL • MongoDB • Data Visualizat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages & Tools:** Python, Pandas, NumPy, SQL, MongoDB, JavaScript, HTML, CSS  
 - **Visualization:** Matplotlib, Seaborn, Data Profiling  
 - **Deployment:** GitHub Pages, Jupyter Notebooks  
@@ -52,7 +52,7 @@ Core skills: Python • Pandas • NumPy • SQL • MongoDB • Data Visualizat
 ---
 
 ## Resume
-📄 [View my resume](https://joannaronchi.com/home)
+[View my resume](https://joannaronchi.com/home)
 
 ---
 
