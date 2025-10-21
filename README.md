@@ -7,7 +7,7 @@ This repository hosts my personal portfolio site, built with **HTML** and **CSS*
 ---
 
 ## About Me
-I’m Joanna Ronchi — a **Data Scientist** with a background in IT Management, Accounting, and Analytics.  
+I am a **Data Scientist** with a background in IT Management, Accounting, and Analytics.  
 I focus on turning raw data into clear, actionable insights through reproducible workflows, effective visualization, and rigorous validation.  
 
 Currently pursuing a **Master’s in Data Science**  
