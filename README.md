@@ -1,33 +1,61 @@
 # Joanna Ronchi Portfolio
-This repository hosts my personal portfolio site, built with HTML and CSS and deployed using **GitHub Pages**.  
 
-Visit the live site: [https://joannar77.github.io](https://joannar77.github.io)
+This repository hosts my personal portfolio site, built with **HTML** and **CSS**, and deployed using **GitHub Pages**.
 
-# About
-I am a Data Analyst with combined experience in IT Management, Accounting, and Data Visualization. My portfolio demonstrates coding projects, analytical work, and professional skills. I am currently pursuing a Master’s degree in Data Science.
+🔗 **Visit the live site:** [https://joannar77.github.io](https://joannar77.github.io)
 
-# Data Analytics Portfolio
-A collection of my key projects in Python, SQL, and MongoDB:
+---
 
-### Business Performance Analysis
-- **Repo:** [Business Performance Analysis](https://github.com/joannar77/business-performance-project)  
-- **Highlights:** Debt-to-equity ratios, state-level aggregation, descriptive statistics, in-depth financial ratio visualizations, and CSV outputs in Jupyter Notebook.
+## About Me
+I’m Joanna Ronchi — a **Data Scientist** with a background in IT Management, Accounting, and Analytics.  
+I focus on turning raw data into clear, actionable insights through reproducible workflows, effective visualization, and rigorous validation.  
 
-### HealthFit Data Analysis
-- **Repo:** [HealthFit Analysis](https://github.com/joannar77/healthfit-mongodb-project)  
-- **Highlights:** MongoDB aggregations with optimized queries (Python and Node.js).
+Currently pursuing a **Master’s in Data Science**  
+Core skills: Python • Pandas • NumPy • SQL • MongoDB • Data Visualization • Business & Financial Analytics
 
-### Running Race Registration Demo
-- **Repo:** [Running Race Registration](https://github.com/joannar77/race-registration))  
-- **Highlights:** Interactive demo that assigns race numbers and start times based on age and registration rules.
+---
 
-### Additional Projects
-- SQL analysis projects  
-- Python data visualization  
-- Other coursework and independent projects  
+## Featured Data Analytics Projects
 
-# Resume
-[View my resume here](https://joannaronchi.com/home)
+### Employee Turnover Data Cleaning  
+- **Repo:** [employee-turnover-data-cleaning](https://github.com/joannar77/employee-turnover-data-cleaning)  
+- **Highlights:** Structured Python workflow for cleaning HR datasets — duplicates, missing values, categorical standardization, derived salary checks, outlier handling, and transparent flagging.  
+- **Video Walkthrough:** [Watch on Vimeo](https://vimeo.com/1128386953/734a795bc5)
 
+---
 
-*Built using **HTML, CSS, JavaScript**, and **GitHub Pages**.*
+### Business Performance Analysis  
+- **Repo:** [business-performance-project](https://github.com/joannar77/business-performance-project)  
+- **Highlights:** Financial ratio analysis, state-level aggregation, descriptive statistics, debt-to-equity and ROE calculations, and clean visualization workflows in Jupyter Notebook.
+
+---
+
+### HealthFit Data Analysis (MongoDB)  
+- **Repo:** [healthfit-mongodb-project](https://github.com/joannar77/healthfit-mongodb-project)  
+- **Highlights:** Actionable health and business insights using MongoDB aggregation pipelines, baseline and optimized queries, and Python + Node.js integrations.
+
+---
+
+### Running Race Registration Demo  
+- **Repo:** [race-registration](https://github.com/joannar77/race-registration)  
+- **Live Demo:** [joannar77.github.io/race-registration](https://joannar77.github.io/race-registration)  
+- **Highlights:** A simple interactive JavaScript app assigning race numbers and start times based on age and registration rules.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages & Tools:** Python, Pandas, NumPy, SQL, MongoDB, JavaScript, HTML, CSS  
+- **Visualization:** Matplotlib, Seaborn, Data Profiling  
+- **Deployment:** GitHub Pages, Jupyter Notebooks  
+- **Focus Areas:** Data Cleaning • Validation • HR Analytics • Financial Analysis • Outlier Detection • Visualization
+
+---
+
+## Resume
+📄 [View my resume](https://joannaronchi.com/home)
+
+---
+
+*Built with **HTML**, **CSS**, and **GitHub Pages**. Last updated: October 2025.*
+
+---
