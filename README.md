@@ -8,11 +8,11 @@ This repository hosts my personal portfolio website, built with **HTML** and **C
 
 # About Me
 
-I am a **Data Scientist** with a **Master of Science in Data Science** and a background in Information Technology Management, Accounting, Finance, and Business Analytics.
+I am a **Data Scientist** with a **Master of Science in Data Science** and a background in **Information Technology Management, Accounting, Finance, and Business Analytics**.
 
-My work focuses on transforming complex datasets into actionable insights through data engineering, statistical modeling, machine learning, and business intelligence. I enjoy building end-to-end analytical solutions—from data preparation and predictive modeling to deployment and interactive visualization.
+I specialize in transforming complex datasets into actionable insights through **data engineering, statistical modeling, machine learning, predictive analytics, and business intelligence**. My projects span the complete analytics lifecycle—from data collection and preparation to model development, deployment, and interactive visualization.
 
-**Core Skills**
+## Core Skills
 
 - Python
 - SQL
@@ -20,10 +20,11 @@ My work focuses on transforming complex datasets into actionable insights throug
 - NumPy
 - Scikit-learn
 - Statsmodels
-- MongoDB
-- Tableau
 - FastAPI
 - Docker
+- MongoDB
+- PostgreSQL
+- Tableau
 - Selenium
 - Git & GitHub
 
@@ -35,17 +36,12 @@ My work focuses on transforming complex datasets into actionable insights throug
 
 **Repository:** https://github.com/joannar77/nevada-appellate-timing-study
 
-A statewide judicial analytics project examining more than **5,700 Nevada appellate cases** using data engineering, predictive analytics, and multiple linear regression.
+A statewide judicial analytics study examining more than **5,700 Nevada appellate cases** using Selenium, feature engineering, predictive analytics, and multiple linear regression to identify factors associated with appellate disposition timing.
 
-Highlights:
+**Technologies:** Python • Selenium • Pandas • Statsmodels • Scikit-learn
 
-- Selenium web scraping
-- Feature engineering
-- Statistical modeling
-- Predictive analytics
-- Public-sector analytics
+🎥 **Project Walkthrough**
 
-🎥 Walkthrough:
 https://vimeo.com/1202978155
 
 ---
@@ -54,9 +50,10 @@ https://vimeo.com/1202978155
 
 **Repository:** https://github.com/joannar77/flight-delay-ml-pipeline
 
-Developed an end-to-end machine learning workflow for predicting flight delays, including feature engineering, model training, and evaluation.
+Developed an end-to-end machine learning workflow for predicting flight delays, including data engineering, feature engineering, model training, experiment tracking, and evaluation.
 
-🎥 Walkthrough:
+🎥 **Project Walkthrough**
+
 https://vimeo.com/1205140119
 
 ---
@@ -65,20 +62,22 @@ https://vimeo.com/1205140119
 
 **Repository:** https://github.com/joannar77/flight-delay-api-deployment
 
-Deployed the trained flight delay prediction model as a production-style REST API using FastAPI and Docker with automated testing.
+Deployed a trained machine learning model as a production-style REST API using **FastAPI**, **Docker**, and automated testing to demonstrate production-ready model serving.
 
-🎥 Walkthrough:
+🎥 **Project Walkthrough**
+
 https://vimeo.com/1205144651
 
 ---
 
-## 📉 Customer Churn Prediction
+## 📉 Customer Churn Prediction Using Random Forest
 
 **Repository:** https://github.com/joannar77/churn-prediction-random-forest
 
-Random Forest classification model predicting customer churn using demographic, billing, and service usage data.
+Developed a Random Forest classification model to identify customers at risk of churn using demographic, billing, and service usage data.
 
-🎥 Walkthrough:
+🎥 **Project Walkthrough**
+
 https://vimeo.com/1205145142
 
 ---
@@ -87,9 +86,10 @@ https://vimeo.com/1205145142
 
 **Repository:** https://github.com/joannar77/customer-segmentation-kmeans
 
-Unsupervised machine learning project identifying meaningful customer segments to support targeted marketing and retention strategies.
+Applied unsupervised machine learning to identify meaningful customer segments that support targeted marketing, customer engagement, and retention strategies.
 
-🎥 Walkthrough:
+🎥 **Project Walkthrough**
+
 https://vimeo.com/1205145395
 
 ---
@@ -98,35 +98,68 @@ https://vimeo.com/1205145395
 
 **Repository:** https://github.com/joannar77/healthfit-mongodb-project
 
-MongoDB aggregation pipelines providing actionable healthcare and business insights through optimized NoSQL queries.
+Designed optimized MongoDB aggregation pipelines that generate actionable healthcare and business insights using both Python and JavaScript implementations.
 
-🎥 Walkthrough:
-https://vimeo.com/1205140119
+🎥 **Project Walkthrough**
+
+https://vimeo.com/1205140794
 
 ---
 
-# Additional Projects
+# Additional Portfolio Projects
 
-My GitHub profile also includes projects covering:
+## Machine Learning & Predictive Analytics
 
-- Multiple Linear Regression
-- Logistic Regression
-- Principal Component Analysis (PCA)
-- Time Series Forecasting (ARIMA)
-- Statistical Hypothesis Testing
-- Employee Data Preparation
+- Housing Price Prediction using Multiple Linear Regression
+- Luxury Home Classification using Logistic Regression
+- Housing Price Prediction using Principal Component Analysis (PCA)
+- Telecommunications Revenue Forecasting using ARIMA Time Series Analysis
+- Customer Churn Dashboard (Tableau)
+
+## Artificial Intelligence
+
+- Computer Vision Image Classification
+- Sentiment Analysis using LSTM Neural Networks
+
+## Data Preparation & Analytics
+
+- Employee Turnover Data Cleaning *(WGU Excellence Award)*
+- Business Performance Analysis
+- U.S. Census Data Analysis
+
+## Optimization & Operations Research
+
+- Supply Chain Optimization using Mixed Integer Linear Programming (MILP)
+
+Most repositories include short video walkthroughs demonstrating the project methodology, implementation, and business interpretation.
+
+---
+
+# Project Highlights
+
+Across my portfolio you will find projects involving:
+
+- Data Engineering
+- Data Cleaning & Validation
+- Web Scraping with Selenium
+- Statistical Modeling
+- Predictive Analytics
+- Machine Learning
+- Deep Learning
+- Time Series Forecasting
+- REST API Development
+- Docker Deployment
+- MongoDB Aggregation Pipelines
 - Tableau Dashboards
-- Computer Vision
-- Natural Language Processing (LSTM Sentiment Analysis)
-- Supply Chain Optimization
-
-Most repositories include short video walkthroughs explaining the methodology, implementation, and results.
+- Business Intelligence
+- Optimization Modeling
+- Public Sector Analytics
 
 ---
 
 # Technical Skills
 
-### Languages
+## Languages
 
 - Python
 - SQL
@@ -134,22 +167,23 @@ Most repositories include short video walkthroughs explaining the methodology, i
 - HTML
 - CSS
 
-### Libraries & Frameworks
+## Libraries & Frameworks
 
 - Pandas
 - NumPy
 - Scikit-learn
 - Statsmodels
+- TensorFlow / Keras
 - Matplotlib
 - Seaborn
 - FastAPI
 
-### Databases
+## Databases
 
 - PostgreSQL
 - MongoDB
 
-### Tools
+## Tools
 
 - Tableau
 - Docker
@@ -160,8 +194,18 @@ Most repositories include short video walkthroughs explaining the methodology, i
 
 ---
 
+# Education
+
+**Master of Science in Data Science**
+
+Western Governors University
+
+**Bachelor of Science in Information Technology Management**
+
+Western Governors University
+
+---
+
 Built with **HTML**, **CSS**, and **GitHub Pages**.
 
 Last updated: June 2026.
-
----
