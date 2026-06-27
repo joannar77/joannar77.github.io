@@ -1,61 +1,167 @@
 # Joanna Ronchi Portfolio
 
-This repository hosts my personal portfolio site, built with **HTML** and **CSS**, and deployed using **GitHub Pages**.
+This repository hosts my personal portfolio website, built with **HTML** and **CSS** and deployed using **GitHub Pages**.
 
-**Visit the live site:** [https://joannar77.github.io](https://joannar77.github.io)
-
----
-
-## About Me
-I am a **Data Scientist** with a background in IT Management, Accounting, and Analytics.  
-I focus on turning raw data into clear, actionable insights through reproducible workflows, effective visualization, and rigorous validation.  
-
-Currently pursuing a **Master’s in Data Science**  
-Core skills: Python • Pandas • NumPy • SQL • MongoDB • Data Visualization • Business & Financial Analytics
+🌐 **Visit the live portfolio:** https://joannar77.github.io
 
 ---
 
-## Featured Data Analytics Projects
+# About Me
 
-### Employee Turnover Data Cleaning  
-- **Repo:** [employee-turnover-data-cleaning](https://github.com/joannar77/employee-turnover-data-cleaning)  
-- **Highlights:** Structured Python workflow for cleaning HR datasets — duplicates, missing values, categorical standardization, derived salary checks, outlier handling, and transparent flagging.  
-- **Video Walkthrough:** [Watch on Vimeo](https://vimeo.com/1128386953/734a795bc5)
+I am a **Data Scientist** with a **Master of Science in Data Science** and a background in Information Technology Management, Accounting, Finance, and Business Analytics.
 
----
+My work focuses on transforming complex datasets into actionable insights through data engineering, statistical modeling, machine learning, and business intelligence. I enjoy building end-to-end analytical solutions—from data preparation and predictive modeling to deployment and interactive visualization.
 
-### Business Performance Analysis  
-- **Repo:** [business-performance-project](https://github.com/joannar77/business-performance-project)  
-- **Highlights:** Financial ratio analysis, state-level aggregation, descriptive statistics, debt-to-equity and ROE calculations, and clean visualization workflows in Jupyter Notebook.
+**Core Skills**
 
----
-
-### HealthFit Data Analysis (MongoDB)  
-- **Repo:** [healthfit-mongodb-project](https://github.com/joannar77/healthfit-mongodb-project)  
-- **Highlights:** Actionable health and business insights using MongoDB aggregation pipelines, baseline and optimized queries, and Python + Node.js integrations.
-
----
-
-### Running Race Registration Demo  
-- **Repo:** [race-registration](https://github.com/joannar77/race-registration)  
-- **Live Demo:** [joannar77.github.io/race-registration](https://joannar77.github.io/race-registration)  
-- **Highlights:** A simple interactive JavaScript app assigning race numbers and start times based on age and registration rules.
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Statsmodels
+- MongoDB
+- Tableau
+- FastAPI
+- Docker
+- Selenium
+- Git & GitHub
 
 ---
 
-## Tech Stack
-- **Languages & Tools:** Python, Pandas, NumPy, SQL, MongoDB, JavaScript, HTML, CSS  
-- **Visualization:** Matplotlib, Seaborn, Data Profiling  
-- **Deployment:** GitHub Pages, Jupyter Notebooks  
-- **Focus Areas:** Data Cleaning • Validation • HR Analytics • Financial Analysis • Outlier Detection • Visualization
+# Featured Projects
+
+## ⚖️ Nevada Appellate Timing Study
+
+**Repository:** https://github.com/joannar77/nevada-appellate-timing-study
+
+A statewide judicial analytics project examining more than **5,700 Nevada appellate cases** using data engineering, predictive analytics, and multiple linear regression.
+
+Highlights:
+
+- Selenium web scraping
+- Feature engineering
+- Statistical modeling
+- Predictive analytics
+- Public-sector analytics
+
+🎥 Walkthrough:
+https://vimeo.com/1202978155
 
 ---
 
-## Resume
-[View my resume](https://joannaronchi.com/home)
+## ✈️ Flight Delay Machine Learning Pipeline
+
+**Repository:** https://github.com/joannar77/flight-delay-ml-pipeline
+
+Developed an end-to-end machine learning workflow for predicting flight delays, including feature engineering, model training, and evaluation.
+
+🎥 Walkthrough:
+https://vimeo.com/1205140119
 
 ---
 
-*Built with **HTML**, **CSS**, and **GitHub Pages**. Last updated: October 2025.*
+## 🚀 Flight Delay REST API Deployment
+
+**Repository:** https://github.com/joannar77/flight-delay-api-deployment
+
+Deployed the trained flight delay prediction model as a production-style REST API using FastAPI and Docker with automated testing.
+
+🎥 Walkthrough:
+https://vimeo.com/1205144651
+
+---
+
+## 📉 Customer Churn Prediction
+
+**Repository:** https://github.com/joannar77/churn-prediction-random-forest
+
+Random Forest classification model predicting customer churn using demographic, billing, and service usage data.
+
+🎥 Walkthrough:
+https://vimeo.com/1205145142
+
+---
+
+## 👥 Customer Segmentation Using K-Means
+
+**Repository:** https://github.com/joannar77/customer-segmentation-kmeans
+
+Unsupervised machine learning project identifying meaningful customer segments to support targeted marketing and retention strategies.
+
+🎥 Walkthrough:
+https://vimeo.com/1205145395
+
+---
+
+## 🍃 HealthFit MongoDB Analytics
+
+**Repository:** https://github.com/joannar77/healthfit-mongodb-project
+
+MongoDB aggregation pipelines providing actionable healthcare and business insights through optimized NoSQL queries.
+
+🎥 Walkthrough:
+https://vimeo.com/1205140119
+
+---
+
+# Additional Projects
+
+My GitHub profile also includes projects covering:
+
+- Multiple Linear Regression
+- Logistic Regression
+- Principal Component Analysis (PCA)
+- Time Series Forecasting (ARIMA)
+- Statistical Hypothesis Testing
+- Employee Data Preparation
+- Tableau Dashboards
+- Computer Vision
+- Natural Language Processing (LSTM Sentiment Analysis)
+- Supply Chain Optimization
+
+Most repositories include short video walkthroughs explaining the methodology, implementation, and results.
+
+---
+
+# Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Libraries & Frameworks
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Statsmodels
+- Matplotlib
+- Seaborn
+- FastAPI
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+
+### Tools
+
+- Tableau
+- Docker
+- Git
+- GitHub
+- Selenium
+- Jupyter Notebook
+
+---
+
+Built with **HTML**, **CSS**, and **GitHub Pages**.
+
+Last updated: June 2026.
 
 ---
